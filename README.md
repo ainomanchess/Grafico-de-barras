@@ -1,10 +1,5 @@
 # Grafico-de-barras
----
-title: "Graficos de barras"
-author: "Ainoha Jimenez"
-format: html
-editor: visual
----
+
 # Introduccion 
 Este documento contiene visualizaciones de datos elaborados con los paquetes ggplot2 y plotly de R.
 
